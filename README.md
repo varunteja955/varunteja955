@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kashigari Varun Teja
 
-### Full-Stack Developer & Graduate Engineer Trainee 🚀
+### MERN Developer  🚀
 
 ---
 
