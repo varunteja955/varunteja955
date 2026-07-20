@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kashigari Varun Teja
+# Hi 👋, I'm Varun Teja
 
 ### MERN Developer  🚀
 
